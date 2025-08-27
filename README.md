@@ -1,1 +1,0 @@
-# hakar.hsn
